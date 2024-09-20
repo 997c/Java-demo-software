@@ -2,5 +2,4 @@
 <p align="left"> <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p
 <h align="center">Good luck on development!</h>
 
-![GitHub top language](https://img.shields.io/github/languages/top/ThreadedDev/Java-demo-software)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ThreadedDev/Java-demo-software)
